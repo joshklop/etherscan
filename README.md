@@ -1,7 +1,3 @@
-To-do:
+This was a toy project.
 
-- Fix bugs relating to parse order. We need to validate flags of parent commands before executing terminal command.
-- Fix existing todos in the code
-- CI: tests on major platforms, coverage, linting
-- Additional Etherscan endpoints: start with downloading contract source code
-- README + documentation.
+Use cast from the [foundry](https://github.com/foundry-rs/foundry) project for a proper Ethereum cli tool.
